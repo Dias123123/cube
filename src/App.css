@@ -1,0 +1,13 @@
+.cube {
+    width: 100px;
+    height: 100px;
+    background-color: grey;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.red {
+    background-color: red;
+}
